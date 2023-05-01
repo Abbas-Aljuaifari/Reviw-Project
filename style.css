@@ -1,0 +1,13 @@
+#nav-bar{
+    position: fixed;
+    top: 0;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: white;
+    }
+  }
+  .flex-container > div {
+    text-align: left;
+    font-size: 25px;
+  }
